@@ -40,7 +40,7 @@ Enter your details into these files:
 And run with:
 
 ```bash
-npm run
+npm start
 ```
 
 ## Notes
