@@ -30,4 +30,4 @@ if [[ $message != '' ]];then
 echo $message > message.txt
 fi
 
-npm start
+npm run
