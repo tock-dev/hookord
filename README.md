@@ -10,7 +10,12 @@ Hookord is a simple Discord webhook client built with Node.js. It provides a lig
 
 ## Installation
 
-1. Clone or download the repository.
+1. Clone or download the repository:
+
+```bash
+git clone https://github.com/tock-dev/hookord.git
+cd hookord
+```
 
 ## Usage
 
