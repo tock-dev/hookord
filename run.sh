@@ -25,9 +25,13 @@ echo $avatar > avatar.txt
 fi
 fi
 
+while true;do
+
 read -rp'Enter the message (leave empty to use last message): ' message
 if [[ $message != '' ]];then
 echo $message > message.txt
 fi
 
 npm start
+
+done
